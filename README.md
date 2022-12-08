@@ -1,7 +1,7 @@
 # About the Project
 In this project, I used a multi-class classification project to help a finance company predict their consumers' credit score based on the consumers' credit-related information. The project is split into 2 parts which show data visualization and a deep learning model that were used to make predictions to the credit score. 
 
-#Data Visualization
+# Data Visualization
 
 The heatmap shows there is a high positive correlation between Credit_score and features like Credit_mix and Credit_history_age. There is also a high negative correlation between Credit_score and features like Outstanding Debt, Num_credit_inquiries, Num_of Delayed_Payment, Delay_from_due_date, Num_of_loan, Interest_rate, Num_credit_card and Num_Bank_accounts. 
 
